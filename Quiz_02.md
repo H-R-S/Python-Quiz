@@ -1,4 +1,4 @@
-## [Quiz: 02](https://github.com/H-R-S/Python-Quiz/blob/main/Quiz_02md)
+## [Quiz: 02](https://github.com/H-R-S/Python-Quiz/blob/main/Quiz_02.md)
 
 Q1. Problem Statement: You have been tasked with developing a simple todo list manager that allows a user to create and manage a list of tasks. The program should have the following functionalities:
 
