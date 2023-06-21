@@ -1,4 +1,5 @@
-## [Quiz: 01]()
+## [Quiz: 01](https://github.com/H-R-S/Python-Quiz/edit/main/Quiz_01.md)
+
 Q1. Create a variable user_balance and set its value to 100. Simulate the user spending 20 dollars by updating the value of user_balance. What is the new value of user_balance?
 ### Code:
 ```
